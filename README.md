@@ -1,32 +1,37 @@
-### Hi, I'm Ahmed 👋
+### Hi, I'm Ahmed
 
 Hope you're having a nice day :)
 
 ---
 
-## 🛠️ Projects
+## Personal Projects
 
-### 🧩 [YT Columns](https://github.com/Ahmed-Shakeel-798/yt-columns)
-A lightweight Chrome extension that lets you choose how many videos YouTube shows per row, with a cute slider popup.
+### [Wiki Search Engine](https://github.com/Ahmed-Shakeel-798/wiki-search-engine)
+A Wikipedia search engine built entirely within PostgreSQL: BM25 keyword search over 240K+ articles, vector-embedding semantic search, and hybrid ranking with Reciprocal Rank Fusion, served through a FastAPI backend.
 
-`JavaScript` `Chrome Extension` · *Nov 2026*
+`Python` `PostgreSQL` `pgvector` `FastAPI` `Docker` · *Nov 2026*
 
-### ⏱️ [Hourly](https://github.com/Ahmed-Shakeel-798/hourly)
+### [Six Degrees of Wikipedia](https://github.com/Ahmed-Shakeel-798/six_degrees_of_wikipedia)
+Distributed breadth-first search with a deterministic, heuristic-guided depth-level ordering.
+
+`Node.js` `Redis` `Lua` `Docker` `Distributed Systems` · *Jan 2026*
+
+### [Hourly](https://github.com/Ahmed-Shakeel-798/hourly)
 A minimalist Android screen-time tracker that nudges you hourly to log what you're doing, then sums it into a clean daily report. 100% on-device.
 
-`Flutter` `Dart` `Android` · *Jun 2026*
+`Flutter` `Dart` `Kotlin` `Android` · *Jun 2026*
 
-### 🤖 [LLM vs LLM: Connect Four](https://github.com/Ahmed-Shakeel-798/llm_vs_llm_connect_four)
+### [LLM vs LLM: Connect Four](https://github.com/Ahmed-Shakeel-798/llm_vs_llm_connect_four)
 Competing LLMs in a game of Connect Four.
 
 `Python` `LLMs` · *Mar 2026*
 
-### 🌐 [Six Degrees of Wikipedia](https://github.com/Ahmed-Shakeel-798/six_degrees_of_wikipedia)
-Distributed breadth-first search with a deterministic, heuristic-guided depth-level ordering.
+### [YT Columns](https://github.com/Ahmed-Shakeel-798/yt-columns)
+A lightweight Chrome extension that lets you choose how many videos YouTube shows per row, with a cute slider popup.
 
-`JavaScript` `Lua` `Distributed Systems` · *Jan 2026*
+`JavaScript` `Chrome Extension` · *Nov 2026*
 
-### 🧠 [LeetCode Solutions](https://github.com/Ahmed-Shakeel-798/LeetCode)
+### [LeetCode Solutions](https://github.com/Ahmed-Shakeel-798/LeetCode)
 My LeetCode solutions.
 
 `JavaScript` `Algorithms` · *2022 – 2025*
