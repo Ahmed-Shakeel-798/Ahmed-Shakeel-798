@@ -6,7 +6,7 @@ Hope you're having a nice day :)
 
 ## Personal Projects
 
-### [Wiki Search Engine](https://github.com/Ahmed-Shakeel-798/wiki-search-engine)
+### [Wiki Search Engine](https://github.com/Ahmed-Shakeel-798/wiki-search-engine) *(in progress)*
 A Wikipedia search engine built entirely within PostgreSQL: BM25 keyword search over 240K+ articles, vector-embedding semantic search, and hybrid ranking with Reciprocal Rank Fusion, served through a FastAPI backend.
 
 `Python` `PostgreSQL` `pgvector` `FastAPI` `Docker` · *Nov 2026*
