@@ -1,6 +1,12 @@
 ### Hi, I'm Ahmed
 
-Hope you're having a nice day :)
+Senior software engineer with 5+ years in backend and AI systems. Day to day that's distributed systems,
+event-driven microservices, LLM agents, RAG and MCP tooling, plus the DevOps and cloud engineering
+to ship and run it all on Azure.
+
+Outside work it's side projects that start with "I wonder if..." and small tools that fix my own annoyances, from software to home decor.
+
+**Interests:** classic literature, mechanical keyboards, D&D, The Witcher 3
 
 ---
 
