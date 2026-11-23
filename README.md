@@ -6,4 +6,6 @@ Distributed breadth-first search with a deterministic, heuristic-guided depth-le
 
 Competing LLMs in a connect four game: https://github.com/Ahmed-Shakeel-798/llm_vs_llm_connect_four
 
+YT Columns: A lightweight Chrome extension that lets you choose how many videos YouTube shows per row, with a cute slider popup. https://github.com/Ahmed-Shakeel-798/yt-columns
+
 My Leet code solutions: https://github.com/Ahmed-Shakeel-798/LeetCode
