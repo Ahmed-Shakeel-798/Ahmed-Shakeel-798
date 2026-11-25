@@ -24,7 +24,7 @@ Outside work it's side projects that start with "I wonder if..." and small tools
 **[LLM vs LLM: Connect Four](https://github.com/Ahmed-Shakeel-798/llm_vs_llm_connect_four)** - Competing LLMs in a game of Connect Four.\
 `Python` `LLMs` · *Mar 2026*
 
-**[YT Columns](https://github.com/Ahmed-Shakeel-798/yt-columns)** - A lightweight Chrome extension that lets you choose how many videos YouTube shows per row, with a cute slider popup.\
+**[YouTube Tweaks](https://github.com/Ahmed-Shakeel-798/youtube-tweaks)** - A lightweight Chrome extension that lets you choose how many videos YouTube shows per row and recolour it with custom themes, all from a cute slider popup.\
 `JavaScript` `Chrome Extension` · *Nov 2026*
 
 **[LeetCode Solutions](https://github.com/Ahmed-Shakeel-798/LeetCode)** - My LeetCode solutions.\
